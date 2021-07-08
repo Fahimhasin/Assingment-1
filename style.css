@@ -32,7 +32,7 @@ h1{
 }
 .about-image{
     width: 50%;
-    padding-right: 12%;
+    padding-right: 20%;
 }
 .about-image image{
     width: 40%;
@@ -47,6 +47,7 @@ section{
     margin-bottom: 150px;
 }
 .about{
-    background-image: url(images/shapes/7.png);
+    background-image: url(images/shapes/edit.jpg);
     background-repeat: no-repeat;
+   height: 10000px;
 }
