@@ -32,8 +32,21 @@ h1{
     
     
 }
+.image-size{
+   
+height:auto;
+padding-top: 10px;
+    
+    padding-right: 10%;
+}
 
 section{
     display: flex;
     line-height: 25px;
+    margin-bottom: 150px;
+}
+.about{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    
 }
