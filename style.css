@@ -32,7 +32,9 @@ h1{
 }
 .about-image{
     width: 50%;
-    padding-right: 20%;
+    padding-right: 40%;
+    text-align: right;
+    padding-left: 40%;
 }
 .about-image image{
     width: 40%;
@@ -41,7 +43,7 @@ h1{
 
 
 
-section{
+.flex{
     display: flex;
     line-height: 25px;
     margin-bottom: 150px;
@@ -50,4 +52,5 @@ section{
     background-image: url(images/shapes/edit.jpg);
     background-repeat: no-repeat;
    height: 10000px;
+
 }
