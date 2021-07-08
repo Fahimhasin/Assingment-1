@@ -29,16 +29,18 @@ h1{
 }
 .half-width image{
     width:100%;
-    
-    
 }
-.image-size{
-   
-height:auto;
-padding-top: 10px;
-    
-    padding-right: 10%;
+.image-about{
+    width: 50%;
+    padding-right: 5%;
 }
+.image-about image{
+    width: 100%;
+}
+    
+
+
+
 
 section{
     display: flex;
@@ -48,5 +50,6 @@ section{
 .about{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    background-size:contain
     
 }
